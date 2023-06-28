@@ -43,7 +43,7 @@ GetKey.TextSize = 22.000
 GetKey.MouseButton1Click:Connect(function()
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Copied!"; Text = "Paste In Chrome And Paste Key ExplanHUB"; Icon = "rbxassetid://13853292478"; Duration = 10 })
 	wait(0.7)
-	setclipboard("https://workink.net/1Q5J/ljdrb8gf")
+	setclipboard("https://workink.net/1Q5J/ljfd0yso")
 end)
 
 Enter.Name = "Enter"
