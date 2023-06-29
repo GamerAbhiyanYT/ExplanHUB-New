@@ -20,7 +20,7 @@ Frame.BackgroundColor3 = Color3.fromRGB(161, 214, 255)
 Frame.Position = UDim2.new(0.370578766, 0, 0.300341278, 0)
 Frame.Size = UDim2.new(0, 487, 0, 208)
 
-KeyBox.Name = "3xpl4nHUB~W1th~K3y`Sy5t3m"
+KeyBox.Name = "3xpl4nHUBW1thK3y`Sy5t3m"
 KeyBox.Parent = Frame
 KeyBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.Position = UDim2.new(0.215605766, 0, 0.211538464, 0)
@@ -43,7 +43,7 @@ GetKey.TextSize = 22.000
 GetKey.MouseButton1Click:Connect(function()
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Copied!"; Text = "Paste In Chrome And Paste Key ExplanHUB"; Icon = "rbxassetid://13853292478"; Duration = 10 })
 	wait(0.7)
-	setclipboard("https://workink.net/1Q5J/ljfd0yso")
+	setclipboard("https://workink.net/1Q5J/ljgvkvpk")
 end)
 
 Enter.Name = "Enter"
@@ -57,7 +57,7 @@ Enter.Text = "ENTER"
 Enter.TextColor3 = Color3.fromRGB(0, 0, 0)
 Enter.TextSize = 19.000
 Enter.MouseButton1Click:Connect(function()
-if KeyBox.Text == "3xpl4nHUB~W1th~K3y`Sy5t3m" then
+if KeyBox.Text == "3xpl4nHUBW1thK3y`Sy5t3m" then
 		Frame.Visible = false
 		wait(0.5)
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerAbhiyanYT/ExplanHUB-Update/main/GamerAbhiyan"))()
